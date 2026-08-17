@@ -1,4 +1,4 @@
-# 🤖 AI Powered Google Search Trend Analysis Dashboard
+# 🤖 AI Powered Google Search Trend Prediction And Analysis Dashboard
 
 ## 📌 Project Overview
 
